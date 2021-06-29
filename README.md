@@ -3,14 +3,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeon3029&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-<!--
+
 ### Interest
-- App programming
--->
-<!--
+- Server(backend) programming
+
+
 ### Motto
 > "할수 없었기 때문에 포기한것이 아니라, 포기했기 때문에 할 수 없었던 것이다."
--->
+
+## [Project Summary](https://www.notion.so/taejjeon/Resume-be230e4b5d474964827bed439e5cca48)
 
 ### More info..
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jeon3029.github.io/)](https://jeon3029.github.io/)
