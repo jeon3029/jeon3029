@@ -11,8 +11,6 @@
 ### Motto
 > "할수 없었기 때문에 포기한것이 아니라, 포기했기 때문에 할 수 없었던 것이다."
 
-## [Project Summary](https://www.notion.so/taejjeon/Resume-be230e4b5d474964827bed439e5cca48)
-
 ### More info..
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jeon3029.github.io/)](https://jeon3029.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taejjeon@gmail.com)](mailto:taejjeon@gmail.com)
