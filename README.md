@@ -14,8 +14,10 @@
 ### More info..
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jeon3029.github.io/)](https://velog.io/@jeon3029/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taejjeon@gmail.com)](mailto:taejjeon@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/taejjeon/)](https://www.instagram.com/taejjeon/) 
 
+<!--
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/taejjeon/)](https://www.instagram.com/taejjeon/) 
+-->
 
 <!--
 **jeon3029/jeon3029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
