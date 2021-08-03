@@ -12,7 +12,7 @@
 > "할수 없었기 때문에 포기한것이 아니라, 포기했기 때문에 할 수 없었던 것이다."
 
 ### More info..
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jeon3029.github.io/)](https://jeon3029.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jeon3029.github.io/)](https://velog.io/@jeon3029/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taejjeon@gmail.com)](mailto:taejjeon@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/taejjeon/)](https://www.instagram.com/taejjeon/) 
 
