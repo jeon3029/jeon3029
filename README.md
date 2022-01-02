@@ -9,7 +9,7 @@
 
 
 ### Motto
-> "할수 없었기 때문에 포기한것이 아니라, 포기했기 때문에 할 수 없었던 것이다."
+> 꾸준하게.. 열심히!!
 
 ### More info..
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jeon3029.github.io/)](https://velog.io/@jeon3029/)
